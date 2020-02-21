@@ -1,0 +1,9 @@
+question 10 : Ok je comprends ta remarque, effectivement moi je reprennais pas les simulations calculées pour Mn pour calculer Mn+1. la tienne est beaucoup plus mieux en complexité. J'étais obligé de calculer que certains termes pour n grand.
+
+
+Il faut revoir la deuxième méthode pour la question 12, je suis pas convaincu que la méthode que j'ai essayé d'implémenter peut fonctionner
+
+Pour la question 13, l'estimation avec la première méthode n'est pas assez précise, soit on laisse comme ca ou bien il faut passer par une autre méthode plus précise pour avoir un meilleur résultat. Je te laisse voir mais si tu as pas le temps on laisse comme ça.
+
+Pour la 14 je te laisse finaliser.
+
